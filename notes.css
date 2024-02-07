@@ -95,3 +95,7 @@
     transition: 0.5s;
     text-decoration: none;
 }
+.accordion-body
+{
+    display: inline-block;
+}
